@@ -81,6 +81,7 @@ Run the following command to run tests:
 
 ## Deployed
 
-Live URL: 
+Live URL: https://fierce-coast-14346.herokuapp.com/
+
 GitHub Link: https://github.com/jyothybaby/22-Redux-Store
 
