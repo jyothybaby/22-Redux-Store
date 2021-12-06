@@ -81,7 +81,7 @@ Run the following command to run tests:
 
 ## Deployed
 
-Live URL: https://fierce-coast-14346.herokuapp.com/
+Live URL: https://boiling-bastion-63002.herokuapp.com/
 
 GitHub Link: https://github.com/jyothybaby/22-Redux-Store
 
